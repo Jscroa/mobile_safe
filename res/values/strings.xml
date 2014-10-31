@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">手机卫士</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="home_title">功 能 列 表</string>
+    <string name="setting_center">设 置 中 心</string>
+    <string name="lostfind_title">手 机 防 盗</string>
+    <string name="setup1_title">1.欢迎使用手机防盗</string>
+    <string name="setup2_title">2.手机卡绑定</string>
+    <string name="setup3_title">3.设置安全号码</string>
+    <string name="setup4_title">4.恭喜你，设置完成</string>
+    <string name="selectcontact_title">选择联系人</string>
+
+</resources>
